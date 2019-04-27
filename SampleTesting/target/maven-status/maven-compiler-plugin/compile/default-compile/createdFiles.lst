@@ -1,0 +1,7 @@
+com\ecomm\model\Customer.class
+com\ecomm\SampleTesting\ClassTest.class
+com\ecomm\config\TestConfig.class
+com\ecomm\SampleTesting\TestMain.class
+com\ecomm\dao\CustomerDAOImpl.class
+com\ecomm\SampleTesting\MainInterface.class
+com\ecomm\dao\CustomerDAO.class
